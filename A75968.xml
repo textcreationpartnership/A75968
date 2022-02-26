@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short instruction for the better understanding and performing of mental prayer</title>
+            <author>Abercromby, Christopher.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75968</idno>
+            <idno type="STC">Wing A76A</idno>
+            <idno type="STC">ESTC R173110</idno>
+            <idno type="EEBO-CITATION">43077439</idno>
+            <idno type="OCLC">ocm 43077439</idno>
+            <idno type="VID">151488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75968)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151488)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2261:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short instruction for the better understanding and performing of mental prayer</title>
+                  <author>Abercromby, Christopher.</author>
+               </titleStmt>
+               <extent>[2], xiv, 49, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed ... by L. Sevestre, over against Graffin College,</publisher>
+                  <pubPlace>Paris :</pubPlace>
+                  <date>M DC XCI [i.e. 1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Christopher Abercromby by Wing.</note>
+                  <note>Preface signed: C.A.S.I. [i.e. Christopher Abercromby, Society of Jesus?].</note>
+                  <note>Includes first page of preface in French on [1] p. at end.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meditation --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151488:1"/>
+            <p>A SHORT INSTRUCTION FOR THE BETTER UNDERSTANDING AND PERFORMING OF MENTAL PRAYER. PRINTED AT PARIS By L. SEVESTRE, over againſt Graſſin College.</p>
+            <p>MDCXCI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151488:2"/>
+            <pb n="iij" facs="tcp:151488:2" rendition="simple:additions"/>
+            <head>TO THE ILLUSTRIOUS, AND VERTVOVSE DAME D. IGNATIA FITZJAMES RELIGIOUS OF THE HOLY ORDER OF S. BENEDICT AT PONTOISE.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>ADAM,</salute>
+            </opener>
+            <p>The intereſt your Good<g ref="char:EOLhyphen"/>neſs allovvs me to take in the higheſt of your concerns; is
+<pb n="iv" facs="tcp:151488:3"/>the only apology I can make for taking the freedome to preſent you vvith this ſmall treatiſe of mentall prayer; vvhich being to make on of the Cheifeſt dutys of your Life in Religion, your pre<g ref="char:EOLhyphen"/>ſent, and future hapineſs cannot but in a great mea<g ref="char:EOLhyphen"/>ſure depend vpon it. Neuer can you attaine the perfe<g ref="char:EOLhyphen"/>ction you aspire to, in the happy ſtate you haue im<g ref="char:EOLhyphen"/>braced, neuer can you be intierly united vvith God, nor ſolidly vertuous but by the frequent uſe of this heauenly exerciſe.</p>
+            <pb n="v" facs="tcp:151488:3"/>
+            <p>You vvas preſented last yeare vvith an abridgement of the highest maximes of Evangelical perfection, left unto you as a rich legacy by our ſauiour as he vvas le<g ref="char:EOLhyphen"/>auing this vvorld; but little vvill all theſe Treaſures avail you, if they be not applyed to your ſoul by ſolid refle<g ref="char:EOLhyphen"/>ctions, ſtrong reſolutions, and affections vvhich only are the fruits of mental prayer. Vve may ſay vvith<g ref="char:EOLhyphen"/>out fear of ſaying too much that neuer perſon had grea<g ref="char:EOLhyphen"/>ter incouragment to perfe<g ref="char:EOLhyphen"/>ction,
+<pb n="vj" facs="tcp:151488:4"/>neuer child more for<g ref="char:EOLhyphen"/>cible domeſtike examples, of heroical uertues, then you, from your Royall Fa<g ref="char:EOLhyphen"/>ther. His gracious Majeſty has been pleased to aſſure you by the tendereſt expreſ<g ref="char:EOLhyphen"/>ſions of his Royall mouth of the true ſatisfaction he re<g ref="char:EOLhyphen"/>ceiued to ſee you make ſo happy à choice, eſteeming you hapyer a thouſand times under à Religious uaile, then a diademe, ſo conuinced he is, of the vanity of this vvorld. But vvho can ſee vvithout admiration ſuch a
+<pb n="vij" facs="tcp:151488:4"/>Complex of the rareſt ver<g ref="char:EOLhyphen"/>tues à Chriſtian ſoul can be adorn'ed vvith? has euer King been endevved vvith more piety, And Religion? vvere Euer ſuch adverſi<g ref="char:EOLhyphen"/>tys carryed vvith morer equality, reſignation, and conformity to the vvil of god? vvith vvhat conſtancy, and true Chriſtian generoſity has he born the viciſſitudes of fortune? vvho could euer be ſo practically and throu<g ref="char:EOLhyphen"/>ghly conuinced as he his of the great difference there is betvvixt temporall, and
+<pb n="viij" facs="tcp:151488:5"/>eternall? vvere not his ſoul ſo inabled by a liuely faith, ſo ſtrengthned by ſtedfaſt hope, and ſo united to god by true Charity as it his: by vvhich meanes giving ſo rare examples of all Chri<g ref="char:EOLhyphen"/>ſtian vertues, vvho can but be ſenſibly moued to de<g ref="char:EOLhyphen"/>votion, and incouraged by them to the practice of uer<g ref="char:EOLhyphen"/>tue? and if vve at ſo noble a ſight feel our ſouls euen to melt in devotion vvithin us, vvhat effect muſt it needs produce in you? but shall I omitt heare to place before
+<pb n="ix" facs="tcp:151488:5"/>you that unparalleled, pious and accomplished Princeſs, our moſt gratious Queen, vvho vvith ſuch great de<g ref="char:EOLhyphen"/>votion honnored both your happy Ceremonys, of Clo<g ref="char:EOLhyphen"/>thing, and profeſſion, vvith hir Royall preſence, ſigning, and ratifying, your ſacred Nuptialls vvith the veſ<g ref="char:EOLhyphen"/>ture of immortality, I me<g ref="char:EOLhyphen"/>ane thoſe holy vailes vvhich give a right to follovv the Lamb in eternall glory. To this let us add the exam<g ref="char:EOLhyphen"/>ples you have conſtantly be<g ref="char:EOLhyphen"/>fore your eyes of a commu<g ref="char:EOLhyphen"/>nity
+<pb n="x" facs="tcp:151488:6"/>composed of ſo many ſo<g ref="char:EOLhyphen"/>lidly vertuous and pious religious vvomen that the like elſe vvhere is not eaſy to be found; vvhere greater regularity? greater union vvith god? more peace, and charity one vvith an other? vvhere greater emu<g ref="char:EOLhyphen"/>lation in vertue? vvhere more chearfullneſs amidſt all the mortifications of a religious life? vvhere greater ſubmiſſion in inferiours? vvhere more loue charity and condeſcende<g ref="char:cmbAbbrStroke">̄</g>ce tovvards her inferiours, joint vvith
+<pb n="xj" facs="tcp:151488:6"/>a certain character of reſo<g ref="char:EOLhyphen"/>lution and firmneſs ſo beco<g ref="char:EOLhyphen"/>ming a Superiour as in your moſt vvorthy lady Abbeſse? vvhom vve may ſay god has placed vpon the cand<g ref="char:EOLhyphen"/>leſticke that the ligth of her hidden vertues may shine to the vvhole houſe. Is it not this ſo ſvveet a harmony of ſo many truly vertuous and religious ſouls that has al<g ref="char:EOLhyphen"/>ready vvrought ſo povver<g ref="char:EOLhyphen"/>fully vpon your that as to make you fall ſo much in loue vvith vertue, to make you ſo generouſly dispiſe the
+<pb n="xij" facs="tcp:151488:7"/>vvorld, as you haue don, by ſo cordially imbraceing a religious life entring ſo cou<g ref="char:EOLhyphen"/>ragously the narrovv path of perfection vvherby you giue us equall edification, and comfort, by the hopes vve haue of your attaining an eminent degree in vvhat you perſue vvith ſo much zeal.</p>
+            <p>But dear Madam hovv vvonderfully vvill they increaſe. And vvhatſpeedy progreſs shall vve ſee you make in ſolid vertue if theſe veritys on vvhich ſo
+<pb n="xiij" facs="tcp:151488:7"/>exemplar vertue is groun<g ref="char:EOLhyphen"/>ded be once deeply imprin<g ref="char:EOLhyphen"/>ted in your ſoul by frequent meditation. Receive then honored Dame this ſmal tranſlation vvhich if you meaſure not by the bulk, but by the affection of the pre<g ref="char:EOLhyphen"/>ſenter and his moſt ear<g ref="char:EOLhyphen"/>neſt deſire to contribute in ſome meaſure to your ad<g ref="char:EOLhyphen"/>vancement in perfection, I preſume ſo much of your goodneſs, as to hope it may have a favourable reception at your hands, and ſerve
+<pb n="xiv" facs="tcp:151488:8"/>for a true mark of the profound reſpect of.</p>
+            <closer>
+               <salute>Moſt Religious and vertuous <hi>DAME,</hi>
+               </salute>
+               <signed>Your moſt humble and obedient ſervant and perfectly vvelvvisher C. A. S. I.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:151488:8"/>
+            <head>A SHORT INSTRUCTION FOR THE BETTER UNDERSTANDING AND PERFORMING OF MENTAL PRAYER.</head>
+            <div n="1" type="section">
+               <head>FIRST SECTION. <hi>Generall Maxims concerning the better underſtanding of Mental Prayer.</hi>
+               </head>
+               <p n="1">I. <seg rend="decorInit">T</seg>HE Gift of prayer is à preſent from heaven that de<g ref="char:EOLhyphen"/>pends more vpon the grace of God then our labour or induſtrie; the holy Ghoſt vvho is the
+<pb n="2" facs="tcp:151488:9"/>ſource and fountaine of all ſupernaturall gifts, is the only maſter able to teach us this important leſſon: its he that calls us to this heavenly exerciſe and its from him vve muſt expect all the ſucceſs vve can hope for in it. Vve may nevertheleſſe diſpoſe our ſelvs to it by a great purity of heart, recollection mind, and a conſtant practice of vertue by vvhich a ſoul is inabled and Rendered capa<g ref="char:EOLhyphen"/>ble of converſing with God almighty, uſe and expe<g ref="char:EOLhyphen"/>rience, contribute alſo very much to make eaſy this holy exerciſe and the con<g ref="char:EOLhyphen"/>duct of a vviſe and prudent Director, is neeldfull to
+<pb n="3" facs="tcp:151488:9"/>avoid all illuſions of the deuil, vvhich are ſo ordi<g ref="char:EOLhyphen"/>nary and dangerous in this Matter.</p>
+               <p n="2">II. The end and aim of prayer Being to unite us vvith God by the applica<g ref="char:EOLhyphen"/>tion of our underſtanding and Vvill; the more and Perfecter it is, the more it vnits us vvith him and gives us more ſtrength to practice vvhat is Good, by communicating to us the Spirit of god.</p>
+               <p n="3">III. Amongſt all the Kinds of prayer vve under<g ref="char:EOLhyphen"/>take to make uſe of; that is the beſt and moſt to our purpoſe, to vvhich vve find our ſelues interiourly dra<g ref="char:EOLhyphen"/>vvne and inclined, vvhich
+<pb n="4" facs="tcp:151488:10"/>ſucceeds better vvith us, and out of vvhich vve reap more profit, vvhat ever Kind of prayer it be.</p>
+               <p n="4">IV. All that defiles the heart, as ſin, paſſion, di<g ref="char:EOLhyphen"/>ſorder in our ſenſes, or vvhat may cauſe any trou<g ref="char:EOLhyphen"/>ble or anxiety, in our mind; as too much Buſineſs, ſcru<g ref="char:EOLhyphen"/>ples, unquietneſs of mind; hinders all ſucceſs in prayer.</p>
+               <p n="5">V. Goe to prayer vvith à pure and vpright inten<g ref="char:EOLhyphen"/>tion, to ſeek nothing, but god and vvith an humble reſignation to his vvill, to doe and ſuffer in it vvhat ever shall be his pleaſure.</p>
+               <p n="6">VI. At the Beginning of your meditation, before
+<pb n="5" facs="tcp:151488:10"/>you apply your mind to the ſubject you have pre<g ref="char:EOLhyphen"/>pared; keep for à little time in ſuſpenſe the facultys of your ſoul, and let your thoughts for a moment be at a ſtand, vvithout produ<g ref="char:EOLhyphen"/>ceing any ſort of act; this vvill contribut very much to allay the agitation of your ſenſes, paſſions &amp; imagination; to bring your mind into a quiet and even temper, and to ſettle you in a profounde interiour peace; vvhich compoſition of mind is abſolutly neceſ<g ref="char:EOLhyphen"/>ſary to diſpoſe a ſoul to receave the operations of the holy ghoſt.</p>
+               <p n="7">VII. This don, put your ſelf in the preſence of god
+<pb n="6" facs="tcp:151488:11"/>by an act of faith vvhich vvill be fitting you re<g ref="char:EOLhyphen"/>nevv novv and then, even during the time of your prayer.</p>
+               <p n="8">VIII. Keep your ſelf in that poſture of body, vvhich may marke your reſpect to god, in vvho's preſence you are, but vvhich may alſo be as little ſubject as you can to any agitation or motion, for even the tran<g ref="char:EOLhyphen"/>quility of the Body con<g ref="char:EOLhyphen"/>tributs to a certainequality, and peace of mind.</p>
+               <p n="9">IX. Let your application be ſerious, but moderate; both in regard of the ſub<g ref="char:EOLhyphen"/>ject of your prayer, and of the acts you are to produce by the faculty of your
+<pb n="7" facs="tcp:151488:11"/>underſtanding, and your vvill; not permitting your ſelf to be ſo caried vvith that application of mind, and attention of ſpirit vvhich may prejudice the Breaſt, or diſtemper the head.</p>
+               <p n="10">X. Take as little notice as you can, and be not the leaſt diſquieted at the ex<g ref="char:EOLhyphen"/>travagant repreſentations of a reſtleſſe imagination, let only your application be to hinder your mind from folovving it, vvhilſt it is thus runing aſtray, and as ſoon as you remark it has bin à Wandring out of its ſubject be-cauſe of the connexion it has vvith the imaginative faculty;
+<pb n="8" facs="tcp:151488:12"/>Bring it to it again vvith all ſvveêtneſs and evenneſſe vvithout ſo much as making reflection on the diſtraction you have had.</p>
+               <p n="11">XI. Be perſvvaded, and doubt not in the leaſt, that althô you did no other thing all the time of your meditation but fight and Wreſtle againſt theſe im<g ref="char:EOLhyphen"/>portune thoughts &amp; diſtrac<g ref="char:EOLhyphen"/>tions, never admitting them voluntary, nor conſenting to them, but ſuffering all the pain, Diſguſt, Tediouſ<g ref="char:EOLhyphen"/>neſs, they make you feel, vvithout being caſt dovvne or dijected; your prayer has had very Good ſucceſs, and may prove more ben<g ref="char:EOLhyphen"/>ficiall, and meritorious then
+<pb n="9" facs="tcp:151488:12"/>if you had prayed vvith more ſvveetneſſe &amp; fer<g ref="char:EOLhyphen"/>vour.</p>
+               <p n="12">XII. If you hapen to find your ſelf, in that hard<g ref="char:EOLhyphen"/>neſſe of heart and ſtupidity of mind, that you neither can meditate nor produce any Good affections, ſuffer vvith patience that dry<g ref="char:EOLhyphen"/>neſſ and aridity, and be ſatisfied; vvith ſtanding thus humbled in the ſight of god. Ther is no diſpo<g ref="char:EOLhyphen"/>ſition fitter to mollifie even the hardeſt of hearts and more capable of changing that invvard inſipidity into the tendereſt ſentiments of devotion.</p>
+               <p n="13">XIII. It is fitting you inſiſt longer on that part of
+<pb n="10" facs="tcp:151488:13"/>your ſubject, vvhich moves and touches you moſt, ſtirring you up to a great tenderneſſe and feeling of Devotion; but let your indeavours be alvvays to employ your vvill more then your underſtanding; for oft entims vve need not much diſcours to diſcouer vvhat is our duty and to be perſvvaded of it; but vve have very much need of ſtrong purpoſes, and ſolid reſolutions to come to prac<g ref="char:EOLhyphen"/>tiſe it.</p>
+               <p n="14">XIV. Remember in fine ſince that meditation or prayer is not to be accoun<g ref="char:EOLhyphen"/>ted the beſt in vvhich vve have had moſt facility, conſolation, and ſenſible
+<pb n="11" facs="tcp:151488:13"/>devotion, but that in which vve have been more faith<g ref="char:EOLhyphen"/>full, conſtant, ſubmiſive to the diſpoſitions of gods holy vvill: the ſureſt means vve can find to have good ſucceſs in our prayer, is to shevv that fidelity, conſ<g ref="char:EOLhyphen"/>tancy, and reſignation to gods divine vvill, in bea<g ref="char:EOLhyphen"/>ring the vvhole vveight of our Miſerys and naturall vveakneſs vvithout ever being in the leaſt dejected or diſcouraged. On our ſide let us do vvhat lyes in our povver, and vve may hold for moſt certain that in vvhat ever diſpoſition vve find our ſelues at prayer, if vve are faithfull to god and ſuffer it as vve ought, he
+<pb n="12" facs="tcp:151488:14"/>vvill never faile to make it ſerve for his greater glo<g ref="char:EOLhyphen"/>ry, and our greater good.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECOND SECTION. <hi>Practice of Meditation or mental prayer Made by vvay of Diſcours.</hi>
+               </head>
+               <p>IN this kind of Prayer of Diſcours and reaſo<g ref="char:EOLhyphen"/>ning commonly caled me<g ref="char:EOLhyphen"/>ditation, each faculty of our ſoul has its proper office and Imployment. The memory propoſes the ſub<g ref="char:EOLhyphen"/>ject, and oſtentimes to fix the agility and livelyneſs of our imagination vve give it its ovvn taſk, obliging it to make us à lively re<g ref="char:EOLhyphen"/>preſentation
+<pb n="13" facs="tcp:151488:14"/>of the ſubject vvhen it can beare it. Our underſtanding conſiders, meditats and reaſons vpon it, ſtrives to fram ſo clear notions and diſtinct con<g ref="char:EOLhyphen"/>ceptions uppon the matter, from vvhich may naturally flovv ſo ſtrong and practi<g ref="char:EOLhyphen"/>eall concluſions, that by them the vvill is inabled, and ſet to vvork, to dravv out of theſe concluſions, affections and reſolutions conform to the ſubject propoſed to it by the un<g ref="char:EOLhyphen"/>derſtanding.</p>
+               <p>The ordinary ſubject of mentall prayer is either ſome myſtery, à Sentance out of ſcripture or ſome truth propoſed to us by faith.</p>
+               <pb n="14" facs="tcp:151488:15"/>
+               <p>Before the time comes that you are to imploy in this manner of praying, you muſt read vvith atten<g ref="char:EOLhyphen"/>tion, the matter and pre<g ref="char:EOLhyphen"/>pare the different points you are to meditate uppon.</p>
+               <p>The firſt thing you doe beginning your meditation is, after you have put your ſelf in the preſence of god, to make à profound act of humility and adoration, after vvhich only in gene<g ref="char:EOLhyphen"/>rall and confuſedly you repreſent to your ſelf the ſubject you pretend to meditate on; and to the end your endeavours may pro<g ref="char:EOLhyphen"/>ve ſucceſsfull, begg of the holy ghoſt the aſſiſtance of his grace, imploring alſo
+<pb n="15" facs="tcp:151488:15"/>to the ſame effect the interceſſion of our bleſſed Lady.</p>
+               <p>This don you make on every point of your medi<g ref="char:EOLhyphen"/>tation particular conſide<g ref="char:EOLhyphen"/>rations. Many ſolid refle<g ref="char:EOLhyphen"/>ctions able to make your vvill produce affections and reſolutions conforme to your ſubject.</p>
+               <p n="1">1. If you have for the ſubject of your meditation any myſtery, you muſt con<g ref="char:EOLhyphen"/>ſider attentively all the particulars and circom<g ref="char:EOLhyphen"/>ſtances of it, that you may the better be inſtructed &amp; vvith more force be con<g ref="char:EOLhyphen"/>vinced of vvhat you ought to avoid, doe, or ſuffer. If you meditate upon à ſen<g ref="char:EOLhyphen"/>tance
+<pb n="16" facs="tcp:151488:16"/>of ſcripture or any article of faith, you muſt doe your endeavour to di<g ref="char:EOLhyphen"/>ve into the ſenſe of it, out of vvhich you muſt dravv morall concluſions for your ovvn conduct; and in all the diſcourſing and reaſo<g ref="char:EOLhyphen"/>ning you have upon the matter, you muſt cheefly and perticularly rely upon faith, vvhich muſt ſerve for the baſſis or ground<g ref="char:EOLhyphen"/>vvork on vvhich muſt be ſetled all the acts of both vvill and underſtanding that you produce in your Prayer.</p>
+               <p n="2">2. The affections take their riſe from the conſi<g ref="char:EOLhyphen"/>derations and that accor<g ref="char:EOLhyphen"/>ding to the nature of the
+<pb n="17" facs="tcp:151488:16"/>ſubject you meditate upon. The principal affections are of admiration thanks<g ref="char:EOLhyphen"/>giveing, confidence, of abondoning perfectly our ſelues into the hands of god, of loue, deſire, joy complacency, of compaſ<g ref="char:EOLhyphen"/>ſion, fear, hatred, horrour confuſion, &amp;c.</p>
+               <p n="3">3. When one makes a ſe<g ref="char:EOLhyphen"/>rious reflection, and caſts an eye back on vvhat he hath already paſt of his life vvith relation to the pre<g ref="char:EOLhyphen"/>ſent ſubject in hand diſ<g ref="char:EOLhyphen"/>couering the diſorders of his former life and beha<g ref="char:EOLhyphen"/>viour, he cannot but find his ſoul couered vvith a holy confuſion, vvhich povverfully diſpoſes it to
+<pb n="18" facs="tcp:151488:17"/>an humble contrition and to the ſincereſt ſenti<g ref="char:EOLhyphen"/>ments of loue and chari<g ref="char:EOLhyphen"/>ty tovvards god vvho has all this vvhile ſo patiently expected the Returne of this prodigal child.</p>
+               <p n="4">4. ſearching in prayer and examining the ſenti<g ref="char:EOLhyphen"/>ments of ones ovvn heart in its preſent ſituation; vve muſt doe our endea<g ref="char:EOLhyphen"/>vours to put and ſettle our ſelues in the beſt diſpoſi<g ref="char:EOLhyphen"/>tion poſſible according to the ſubject of our medita<g ref="char:EOLhyphen"/>tion and the light vve re<g ref="char:EOLhyphen"/>ceive from god,</p>
+               <p n="5">5. If you caſt your Eyes upon the future, and what is te come; vve ought to make ſtrong reſolutions
+<pb n="19" facs="tcp:151488:17"/>both for the practizing of Good or auoiding Evil and forſeing the occaſions we are to be in, to incourage our ſelues; ſo offering up to god our good, pious and fervent deſires, make him a thovvſand proteſtations of an inviolable fidelity. Its after this manner vve finish our prayer by a hear<g ref="char:EOLhyphen"/>ty and moſt affectionate adreſſe to god vvhich from the latin vve term collo<g ref="char:EOLhyphen"/>quium, in vvhich our ſoul Directs its prayer novv to god, novv to ſome of the three perſons of the Ble<g ref="char:EOLhyphen"/>ſed Trinity novv to the Bleſſed Virgin, to the An<g ref="char:EOLhyphen"/>gels or the Saints vvho's help aſſiſtance and inter<g ref="char:EOLhyphen"/>ceſſion
+<pb n="20" facs="tcp:151488:18"/>vve goe about to implore.</p>
+            </div>
+            <div n="3" type="section">
+               <head>THIRD SECTION. <hi>Different ſorts and Vvayes of Praying, to make this holy Exerciſe more Eaſy for Beginners.</hi>
+               </head>
+               <p>THe firſt manner I here ſet dovvn of praying is that of holy ſaint Tereſa, of vvhich by her ovvn teſtimony she firſt made uſe of vvhen she began by This holy Exerciſe to converſe vvith god. Its very Eaſy and litle diffe<g ref="char:EOLhyphen"/>rent from a ſimple lecture or reading; one takes a ſpirituall book, as the
+<pb n="21" facs="tcp:151488:18"/>nevv teſtament, or folo<g ref="char:EOLhyphen"/>vving of Chriſt, or any ſuch; you read à chapter or ſome fevv lines by in<g ref="char:EOLhyphen"/>tervalls, then you conſider and meditate for ſome time vpon vvhat you have read, ſtriving to penetrate into the ſenſe of it and to imprint it deeply in your mind; then dravv from it ſome holy affection, as of loüe of god, of pennance, contrìtion or of ſome other virtue vvhich you muſt make à good purpoſe to put in practice vvhen occaſion shall occur.</p>
+               <p>You have only tvvo extremities to avoid, the one of reading too much, the other of meditating too
+<pb n="22" facs="tcp:151488:19"/>much, ſo that your mind begins to vvander, and its attention and vigour rather to decay then to be incou<g ref="char:EOLhyphen"/>raged and ſtirred vp to practice the good you have propoſed to be don. But you muſt keep vvithin the bounds of à juſt moderation ſtopping as long at every paragraph as your under<g ref="char:EOLhyphen"/>ſtanding shall find in it vvhere upon to give it ſelf à gratfull and profitable en<g ref="char:EOLhyphen"/>tertainment.</p>
+               <p>The ſecond manner is almoſt the ſame vvith the precedent. You take for ſubject à text of Scripture or ſome vocal prayer as the Pater noſter, the Ave or the Creed, you pronounce
+<pb n="23" facs="tcp:151488:19"/>the vvords outvvardly or invvardly in your heart, you make à ſtop at every vvord out of vvhich you dravv ſeverall pious ſenti<g ref="char:EOLhyphen"/>mens, vvhich make as long the application of your ſoul as you can find you can relish them; at the end you make an humble addreſſe to god, begging of his bounty ſome grace, or ſome virtue according to the ſubject of your meditation. In the practice of this prayer three things are to be obſerved; not to inſiſt too long vvith teadiouſneſs, and diſguſt upon one word, but vvhen nothing more occurrs capable of keeping your mind employed, paſſe
+<pb n="24" facs="tcp:151488:20"/>ſoftly and gently to an other. 2. When you find your heart moued by ſome good ſentiment, there, be ſure to fix as long as it laſts, vvithout puting your ſelf in pain to proceed further. 3. It is not needfull al<g ref="char:EOLhyphen"/>vvaïes to make nevv acts, yea its often ſufficient to keep your ſelf there in the preſence of god; rumina<g ref="char:EOLhyphen"/>ting in ſilence upon the vvords of your meditation, and endeavouring to relish the ſentiments they have already produced in your heart.</p>
+               <p>The third manner may be uſed vvhen the ſubject you have prepared does not furnish you vvith
+<pb n="25" facs="tcp:151488:20"/>thoughts enough, then you may take as a very profitable employment that of pro<g ref="char:EOLhyphen"/>duceing acts of faith, ado<g ref="char:EOLhyphen"/>ration, thankſgiving, hope, loue, &amp;c. For example I beleiue o my god! that I am here in your ſight and that you are inceſſantly applied to gouerne and conduct me, &amp;c.</p>
+               <p>I adore your ſouvrain povver and doe heartily make you homage for my being, and for all the power I have as a good belonging to you and vvhich I hold of you, &amp;c.</p>
+               <p>I render you à milion of thankes for having loued me from all eternity, &amp;c.</p>
+               <p>I hope your divine Pro<g ref="char:EOLhyphen"/>vidence
+<pb n="26" facs="tcp:151488:21"/>vvill never Abon<g ref="char:EOLhyphen"/>don me in my neceſſity and want, and that it will con<g ref="char:EOLhyphen"/>duct me happyly to the accomplishment of your deſigns by that vvay, it vvill point out to me, &amp;c.</p>
+               <p>I loue you ô Eternall beauty! ô infinit goodneſs! I loue you aboue all things and vvith all my ſoul, &amp;c.</p>
+               <p>I am heartily ſorry for having ſerved you ſo ill hitherto, and for having offended you ſo often, &amp;c.</p>
+               <p>I Wish from my heart that you might receive in<g ref="char:EOLhyphen"/>deed and in effect, all the honour your creaturs are capable to render you, &amp;c.</p>
+               <p>Theſe acts are only by vvay of example, and as
+<pb n="27" facs="tcp:151488:21"/>it vvere a mould of ſuch as you may produce, you may give them as much extent as you think fitting, make à ſtop at every one, giveing your ſelf the time to feel at leaſure, to relish and ſavour, the good ſen<g ref="char:EOLhyphen"/>timents that have made the moſt impreſion upon your ſoul.</p>
+               <p>The forth manner of prayer may be made uſe of vvhen on is in ſuch à diſ<g ref="char:EOLhyphen"/>poſition that he neither can meditate nor produce any affections upon the points of the prayer you have prepared. In that in<g ref="char:EOLhyphen"/>capacity and ſterility of mind, it's very good to make in the preſence of
+<pb n="28" facs="tcp:151488:22"/>god; à ſincere proteſtation that your intention and deſire is to make as many acts of virtue, as for exam<g ref="char:EOLhyphen"/>ple, of contrition as you shall by times dravv your breath or as you shall run over your beads or pro<g ref="char:EOLhyphen"/>nounce exteriourly ſome short prayer: you muſt renevv from time to time the ſame proteſtation; &amp; if god of his bounty gives you any other good ſenti<g ref="char:EOLhyphen"/>ments, receive it vvith humility &amp; make it your interiour occupation.</p>
+               <p>Te fift manner is for ſouls in trouble and tormented vvith à certain ſtupidity of minde and inſenſibility of heart, Provided thay have
+<pb n="29" facs="tcp:151488:22"/>courage enough to perſe<g ref="char:EOLhyphen"/>vere and ſo much of fidelity as not to let themſelves be overcome, by diſtractions, &amp; that they be vvilling to ſuffer ſomthing for the loue of god. The beſt prayer that ſuch ſouls can make vvhilſt they are ſtupid and inſenſible, ſurrounded with darkneſs and born dovvne by the vveight of their ovvn miſeries, is to abon<g ref="char:EOLhyphen"/>don themſelues generouſly to ſuffring, vvithout being in the leaſt disheartned or diſquieted, yea vvithout endeavouring to get out of ſo ſad à condition or pro<g ref="char:EOLhyphen"/>duceing any other acts but thoſe of abandoning them<g ref="char:EOLhyphen"/>ſelues intirely into the
+<pb n="30" facs="tcp:151488:23"/>hands of god to undergo that tryal or any other it shall pleaſe his mercy or juſtice to put them to. They may alſo unite their ſuf<g ref="char:EOLhyphen"/>frings, and preſent pain vvith the Agony of our ſaviour in his prayer in the garden, or vvith that unſ<g ref="char:EOLhyphen"/>peakable reſignation he felt upon the croſs ſtriuing to perſvvade ourſelues by his example, there to remain and to ſuffer conſtantly even till death.</p>
+               <p>The ſixt manner of pra<g ref="char:EOLhyphen"/>ying conſiſts in a revievv of our ovvn interiour. You muſt by a ſerious con<g ref="char:EOLhyphen"/>ſideration enter into your ovvn heart, and endeavour to make a perfect diſcouery
+<pb n="31" facs="tcp:151488:23"/>of the preſent ſtate and condition of your ſoul; ſet before your eyes your defects, your paſſions, your infirmities, your weakneſſes, your evil inclinations, for none but has more or leſs ſomthing of corupt nature in them, examin your heart hovv ever inſcrutable it be; dive into the bottome, lay open your ovvn mi<g ref="char:EOLhyphen"/>ſeries and your nothing. Adore the judgments of god in regard to the preſent ſtate you are in, bovv and ſubmit to his holy vvill and bliſſe him equaly for the punishment and chaſtiſe<g ref="char:EOLhyphen"/>ment of his juſtice, and for the favours you have re<g ref="char:EOLhyphen"/>ceived from his infinit
+<pb n="32" facs="tcp:151488:24"/>Mercy; humble your foul in preſence of his ſouvrai<g ref="char:EOLhyphen"/>gne majeſty, make a ſincere Confeſſion of your ſins and infidelitys, beg a thovvſand pardons, there retract your fals and erronious judg<g ref="char:EOLhyphen"/>ments, vvhen blinded by paſſion you ſo often prefe<g ref="char:EOLhyphen"/>red temporall to eternall honnour, richeſs, pleaſurs, to contempt, pauverty, and ſuffring. Abhorre and deteſt all the evil you have ever committed by thought, word deed, or omiſſion; and make a ſted faſt purpoſe of amend<g ref="char:EOLhyphen"/>ment for the future.</p>
+               <p>This manner of prayer is vvithout conſtraint, and all kind of affections may find place in it, you may
+<pb n="33" facs="tcp:151488:24"/>make it at all times but chiefly after ſome ſuddan and unexpected accident for to diſpoſe ons ſoul to the mercifull chaſtiſement of gods juſtice; or after having bin in any exteriour diſſipating concerne for to recouer again your vvon<g ref="char:EOLhyphen"/>ted interiour peace and recolection of mind.</p>
+               <p>The ſeauenth manner of praying conſiſts in a li<g ref="char:EOLhyphen"/>vely repreſentation of the 4. laſt things that are to befall man. That excelent Maſter of à ſpirituall life father Iohn d'Avila, re<g ref="char:EOLhyphen"/>commends it much. I ima<g ref="char:EOLhyphen"/>gin ſays he in a letter to one of his diſciples that you are already buried;
+<pb n="34" facs="tcp:151488:25"/>reduced into ashes, forgott by your parents &amp; freinds, and that your ſoul is al<g ref="char:EOLhyphen"/>ready in its ſtate of ſepa<g ref="char:EOLhyphen"/>ration, &amp;c.</p>
+               <p>You may then to per<g ref="char:EOLhyphen"/>forme this kind of prayer repreſent to your ſelf that you are effectualy redu<g ref="char:EOLhyphen"/>ced to your laſt agony and ready to give up your ſoul; put your ſelf in ſpirit betvvixt time and eternity, betvvixt your life paſt and the judgment of god vvhere you are going to appeare, there you muſt endeavour to conceive and feel before hand the ſenti<g ref="char:EOLhyphen"/>ments you will have when you come to that extre<g ref="char:EOLhyphen"/>mity! vvhat you vvould
+<pb n="35" facs="tcp:151488:25"/>vvish then to have don, hovv you vvould vvish to have lived, &amp;c. You muſt not only foreſee, but e<g ref="char:EOLhyphen"/>ven alſo ſtrive to haue an anticipated feeling of the pain, trouble and fear you vvill then certainly be in; recall to your mind your ſins, the diſorders of your life, the frequent abuſe you have made of gods grace. hovv at that moment you vvould wish to have beha<g ref="char:EOLhyphen"/>ued your ſelf in ſuch and ſuch occaſions, &amp;c. Infine you muſt make ſome ſtrong and ſolid purpoſes to apply ſome efficacious remedy to all that you have any ground to feare, at the ſight of that ſtate and of its Terri<g ref="char:EOLhyphen"/>ble
+<pb n="36" facs="tcp:151488:26"/>conſequences. You may allſo imagin that you are already before the Tribu<g ref="char:EOLhyphen"/>nal of Chriſt Jeſus, or in Purgatory, or in hell, the more the repreſentation is livly the more profitable vvill be your prayer.</p>
+               <p>T'is in this ſtate that god often puts in ſpirit many ſouls, for to dravv them perfectly out of this world, and deveſt them of their bodys, cauſing them to make an intire divorce from flesh and blood and all that has been the dea<g ref="char:EOLhyphen"/>reſt to them upon earth. for it is an order, and an indiſpenſable law of divine Providence, that vve muſt abſolutly die by that miſti<g ref="char:EOLhyphen"/>cal
+<pb n="37" facs="tcp:151488:26"/>death; for to partake of the firſt reſurrection, which conſiſteth in being delive<g ref="char:EOLhyphen"/>red, and made free from all corruption of ſin, and that vve muſt of neceſſity paſs through this Purgatory before vve can perfectly enioy god almighty, and attain to that poſſeſſion vvhich is the perfecteſt Manner we can poſeſs him upon earth.</p>
+               <p>The eight Manner of praying may be called an application of our mind to Jeſus-Chriſt in the bleſſed Sacrement, vvhich is per<g ref="char:EOLhyphen"/>formed after this manner. 1. After you have adored our ſaviour in this myſtery vvith all the reſpect that
+<pb n="38" facs="tcp:151488:27"/>his real preſence requires. You muſt unite your ſelf to him and all his divine operations in the Eucha<g ref="char:EOLhyphen"/>riſt, where he never ceaſes from adoring praiſing, and loueing god his father in the name of all mankind, and that after the perfe<g ref="char:EOLhyphen"/>cteſt manner, imaginable; that is to ſay in the form and ſtate of à victime. You muſt then meditate and ſtrive to conceive ſomthing of his retirement &amp; recol<g ref="char:EOLhyphen"/>lection, of his ſolitude, his hidden life, his obe<g ref="char:EOLhyphen"/>dience, his humility and of all other virtues accor<g ref="char:EOLhyphen"/>ding to the model and example he gives of them in this Sacramentall ſtate.
+<pb n="39" facs="tcp:151488:27"/>you muſt ſtirr up your ſoul to the imitation of his ver<g ref="char:EOLhyphen"/>tues, and make good pur<g ref="char:EOLhyphen"/>poſes not to faile to put them in practice, as often as you shall have occaſion.</p>
+               <p n="2">2. Offer up to god the fa<g ref="char:EOLhyphen"/>ther his ſon Chriſt Jeſus, as the only victime worthy of him, and by vvhich alone vve are able to render due hommage to his ſu<g ref="char:EOLhyphen"/>prême Dominion; acknow<g ref="char:EOLhyphen"/>ledge his benefits, ſatisfy his juſtice, and oblige his mercy to help and aſſiſt us.</p>
+               <p n="3">3. Offer up your ſelf to god, make à ſacrifice to him of your being, your life, your imployments, and in particular make à good purpoſe to performe
+<pb n="40" facs="tcp:151488:28"/>ſome act of virtue, ſome mortification that you re<g ref="char:EOLhyphen"/>lolue to undergoe, to Ouer<g ref="char:EOLhyphen"/>come your ſelf, and that for the ſame end for which our ſaviour in the bleſſed Sacrement offers himſelf up in ſacrifice; and you muſt make this oblation vvith an earneſt deſire to increace as farr as lies in your povver the glory he renders to his father in this ſacred Myſtery.</p>
+               <p>Finish your prayer by à ſpirituall Communion, this vvay of prayer is ex<g ref="char:EOLhyphen"/>celent, and your ſtudy muſt be, to make the practice of it, ſo much the more fami<g ref="char:EOLhyphen"/>liar, that our happineſs in this life depends on our
+<pb n="41" facs="tcp:151488:28"/>union vvith Chriſt Jeſus in the bleſſed Sacrement, and I adviſe you to make uſe of it as often as you can &amp; particularly towards evening.</p>
+               <p>The ninth manner of prayer vve make in the name of our ſaviour, and as taking his place in the addreſſes vve make to god; vvhich may help us vvon<g ref="char:EOLhyphen"/>derfully to breed in our ſouls à perfect confidence in god almighty and make us enter in Spirit into the ſentiments of our ſaviour. It is grounded on this truth, to vvitt that vve have contracted à true al<g ref="char:EOLhyphen"/>liance with the ſon of god. We are his brothers, the
+<pb n="42" facs="tcp:151488:29"/>members of his myſtical body, he has granted, and made over to us all his merits, he leaves us by his teſtament legatarys of the recompences and rewards due to, all his vvorks for all the pains and troubles he has been at, death it ſelf that he ſuffered to glorify his father: by this we are enabled to honor &amp; vvor<g ref="char:EOLhyphen"/>ſhip god as god, that is vvith à vvorship not infe<g ref="char:EOLhyphen"/>riour to what his excellency requires &amp; by the ſame way vve enter in right to con<g ref="char:EOLhyphen"/>verſe vvith god and can in ſome ſort exact his favours by ſome kind of juſtice, vve have not that right as creaturs, and as yet much
+<pb n="43" facs="tcp:151488:29"/>leſs as ſinners becauſe of that infinite diſproportion that is betvvixt god and à creature, and that infinit opoſition vvhich is betwixt him and à ſinner; but as being allyed to the ſon of god in mans flesh, as being his brethern and his mem<g ref="char:EOLhyphen"/>bers, vve may apear vvith confidence in the preſence of god, converſe vvith him familiarly and engage him to hear us favorably to liſten to our requeſts, to grant us graces and favours becauſe of the union vve have vvith his ſon.</p>
+               <p>It's in this manner you may apeare at prayer in the preſence of god; novv to adore and praiſe him
+<pb n="44" facs="tcp:151488:30"/>through Jeſus-Chriſt, vvor<g ref="char:EOLhyphen"/>king in you as the head in his members, and raiſing &amp; elevating you by this ope<g ref="char:EOLhyphen"/>ration of his ſpirit to à ſtate vvholy Divine; novv to begg ſome favour of him in vertue of the merits of his ſon; and for that effect you repreſent unto him the ſeruices his vvell beloued ſon has rendred him, his life, his death, his ſuffe<g ref="char:EOLhyphen"/>rings, the reward of which you may lavvfully clame right to by vertue of à grant and of à true ceſſion by which he has made them over to us. This vvay of prayer is excellently per<g ref="char:EOLhyphen"/>formed in à ſupernatural ſtate and tis properly in that
+<pb n="45" facs="tcp:151488:30"/>ſpirit that thoſe who are obliged to ſay the Divine office ought to ſay it. It's after this manner the church prays and for that reaſon she concludes all her prayers in theſe vvords. Per Dominum noſtrum, &amp;c.</p>
+               <p>The tenth manner of praying is à Mixture partly of à ſimple attention to the preſence of god and partly of meditation, it may be practiced after this fashion.</p>
+               <p>Before you apply your ſelf to meditate vpon the ſubiect you have prepared, put your ſelf in the pre<g ref="char:EOLhyphen"/>ſence of god, vvithout ta<g ref="char:EOLhyphen"/>king any diſtinct thought or ſtirring vp in your ſoul any other ſentiment but
+<pb n="46" facs="tcp:151488:31"/>that of a dutifull reſpect and tender loue tovvards him, vvith vvhich gods very preſence cannot but inſpire you. Be ſatisfied to ſtand thus ſilent in the ſight of god and remaine as long in that peace and quietneſs of mind as you can haue any interiour de<g ref="char:EOLhyphen"/>light or relish in it ſo that your ſoul be kept by it in that conſtant reſpect. But this coming to fail lay pre<g ref="char:EOLhyphen"/>ſently hold on the points of the meditation you haue prepared, upon which you make your conſide<g ref="char:EOLhyphen"/>rations as you vvont to do vvith your reflecti<g ref="char:EOLhyphen"/>ons, reſolutions, and affections, according to
+<pb n="47" facs="tcp:151488:31"/>the ordinary method; it vvould not be amis to begin thus all your medi<g ref="char:EOLhyphen"/>tations keeping your ſelf in ſilence as long in the preſence of god as that interiour reſpect and affe<g ref="char:EOLhyphen"/>ction of your ſoul towards him can keep your imagi<g ref="char:EOLhyphen"/>nation free from vvande<g ref="char:EOLhyphen"/>ring and your thoughts ſo compoſed that they put no oppoſition to your in<g ref="char:EOLhyphen"/>ioying his divine preſence in peace and quietneſs, and in the cours of your meditation after every point your mind being wearied by produceing frequent acts it will proue very profitable and advan<g ref="char:EOLhyphen"/>tagious to make à ſtop and
+<pb n="48" facs="tcp:151488:32"/>repoſe à little in this ſimple attention to god; by ſo doing you ſettle your ſelf in an interiour recollection, and being thus accuſtomed to fix your mind on god, you may diſpoſe your ſelf by little and little to con<g ref="char:EOLhyphen"/>templation vvhich is no<g ref="char:EOLhyphen"/>thing but à ſimple vievv of god accompanied vvith reſpect and loue; but tis à perfect illuſion to remain ſo, out of à meer laſineſſe and unvvillingneſs to take paines to conſider and Meditate.</p>
+               <p>When one has gained ſo much by the mortifica<g ref="char:EOLhyphen"/>tion of his ovvn paſſions and a frequent and habi<g ref="char:EOLhyphen"/>tuall communication vvith
+<pb n="49" facs="tcp:151488:32"/>god, as to be able to re<g ref="char:EOLhyphen"/>main in that interiour tranquillity of ſpirit in his Divine preſence à good ſpace of time vvithout be<g ref="char:EOLhyphen"/>ing much troubled vvith diſtractions nor diverted by the inconſtancy and inſtability of the facultys of his ſoul, tis a certain mark he is not farr from vvhat we call a paſſive ſtate.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
